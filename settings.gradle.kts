@@ -1,1 +1,1 @@
-rootProject.name = "GDApiTest"
+rootProject.name = "GeometryDashSonicWaveAPI"
